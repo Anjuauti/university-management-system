@@ -1,1 +1,2 @@
 # university-management-system
+Welcome to the University Management System project! This Java application is crafted to streamline university operations, utilizing Swing for the user interface and MySQL for database management. This system offers comprehensive functionalities for managing student, faculty, and grades effectively.With a focus on efficiency and ease of use, this application is designed to enhance the management of university resources and operations.
